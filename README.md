@@ -1,7 +1,7 @@
 # Jetpack
 ## Trabajo Pantalla de presentación
 [Ver](https://github.com/JFelipe-23/PantallaDeClarativa)
-## Taller 2
+## Trabajo APP Clima
 [Ver](https://github.com/JFelipe-23/Clima)
-## Taller 3
+## Trabajo APP MY_Finances
 [Ver](https://github.com/JFelipe-23/My_Finances)
