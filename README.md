@@ -1,5 +1,5 @@
 # Jetpack
-## Trbajo APP News
+## Trabajo APP News
 [Ver](https://github.com/JFelipe-23/NEWS_APP)
 ## Trabajo Pantalla de presentación
 [Ver](https://github.com/JFelipe-23/PantallaDeClarativa)
